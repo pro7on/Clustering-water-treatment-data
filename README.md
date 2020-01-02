@@ -1,11 +1,11 @@
 # Clustering-water-treatment-data
 
 
-###### 1.
-###### 2.
-###### 3.
-###### 4.
-###### 5.
+###### 1. Clean up the data set, which includes filling up the missing values and normalizing all the data items
+###### 2. Perform K-means algorithm on data set, propose a specific termination condition for the modified k-means when searching the true k-value
+###### 3. Implement the modified k-means algorithm with the proposed termination condition and run the algorithm on water treatment data
+###### 4. First, apply the PCA method to this dataset and then apply the implemented modified k-means method above to this reduced data set 
+###### 5. Comparision of results between both the clusterings done(3 & 4)
 ###### Note: Files for 1,2,3 & 4 are different. 
 
 
